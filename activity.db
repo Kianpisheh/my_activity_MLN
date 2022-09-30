@@ -1,0 +1,24 @@
+Activity(a1)
+Cup(e1)
+hasEvent(a1, e1)
+MakingCoffee(a1)
+
+Activity(a2)
+Cup(e2)
+hasEvent(a2, e2)
+MakingCoffee(a2)
+
+Activity(a3)
+Cup(e3)
+hasEvent(a3, e3)
+SandwichTime(a3)
+
+Activity(a4)
+Cup(e4)
+hasEvent(a4, e4)
+MakingCoffee(a4)
+
+Activity(a5)
+Cup(e5)
+hasEvent(a5, e5)
+SandwichTime(a5)

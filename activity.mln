@@ -1,0 +1,11 @@
+// MLN for social networks section in tutorial
+
+Activity(act)
+Cup(ev)
+MakingCoffee(act)
+SandwichTime(act)
+hasEvent(act, ev)
+
+
+// Rules
+0.0 Activity(?a)^hasEvent(?a,?e)^Cup(?e) => MakingCoffee(?a)
